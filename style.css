@@ -1,0 +1,10 @@
+/* Basic CSS for the game */
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+}
+
+canvas {
+  display: block;
+}
